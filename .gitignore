@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+dist/
+build/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local Debug / Logs / Temp files
+*.log
+temp_tesseract.png
+debug_preprocess.png
+backend_stdout.log
+backend_stderr.log
+frontend_stdout.log
+frontend_stderr.log
+
+# IDEs and OS
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+Thumbs.db
+ehthumbs.db
+Desktop.ini
